@@ -1,0 +1,9 @@
+numeros = [5,9,6,3,2,8,10]
+for i in numeros
+  puts(i,i*i)
+end
+
+#EN LA TERMINAL DONDE SE ENCUENTRAN NUESTROS EJERCICIOS
+# ESCRIBIMOS: ruby -rdebug nombreprograma.rb
+# l SIGNIFICA EL NÚMERO DE LINEAS ESCRITAS
+# n NOS DICE LA EJECUCION DE CADA LINEA DE CODIGO
