@@ -22,4 +22,4 @@ end
 
 obj = Logico.new
 obj.prueba
-gets()
+gets() 
